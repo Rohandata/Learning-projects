@@ -1,10 +1,6 @@
 # Data Science Projects
 A collection of my Data Science projects in Jupyter notebooks.
 
-Author: Matthew Wilfred Ho
-
-Email: matthewwilfred@gmail.com  | LinkedIn: [https://www.linkedin.com/in/matthewwilfred](https://www.linkedin.com/in/matthewwilfred)
-
 
 ## Project List
 - [Parts of Speech Tagging](https://github.com/matthewwilfred/Data-Science-Projects/blob/master/NLP%20Parts-of-Speech%20tagging%20-%20NLTK%20spaCy%20Keras.ipynb): Natural Language Processing with NLTK, spaCy, and Deep Learning with Bidirectional LSTM using Keras, Tensorflow, Google Colab
